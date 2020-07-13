@@ -1,0 +1,11 @@
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.exe
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.deps.json
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.runtimeconfig.json
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.runtimeconfig.dev.json
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.dll
+C:\Workspaces\asp net\LINQ\linq1\linq1\bin\Debug\netcoreapp3.1\linq1.pdb
+C:\Workspaces\asp net\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.csprojAssemblyReference.cache
+C:\Workspaces\asp net\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.AssemblyInfoInputs.cache
+C:\Workspaces\asp net\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.AssemblyInfo.cs
+C:\Workspaces\asp net\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.dll
+C:\Workspaces\asp net\LINQ\linq1\linq1\obj\Debug\netcoreapp3.1\linq1.pdb
